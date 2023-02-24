@@ -96,7 +96,7 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print ("""\033[1;92m  _______  __      __ 
+		print ("""\033[1;92m I came back after a long time
 
    _____ _    _ _    ___      ______  
   / ____| |  | | |  | \ \    / / __ \ 
@@ -108,7 +108,7 @@ class Main:
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : SHUVO CHOWDHURY   
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : GOOD VIBES & Tai Naki
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : SHUVO2K4-6
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : BYPASS BY SHUVO
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : BAYPASS BY SHUVO
 \033[1;90m══════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sSHUVO❌ PROO CLONER❌"%(G,R,G,B,G))
