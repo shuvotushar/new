@@ -106,13 +106,13 @@ class Main:
  |_____/|_|  |_|\____/    \/   \____/ 
 \033[1;90m══════════════════════════════════════════════════
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : SHUVO CHOWDHURY   
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : GOOD VIBES
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : GOOD VIBES & Tai Naki
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : SHUVO2K4-6
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : BYPASS BY SHUVO
 \033[1;90m══════════════════════════════════════════════════
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sSHUVO❌ PROO CLONER❌"%(G,R,G,B,G))
-		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
+		print("%s [%s•%s] %sVERSION   : %s2.1"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
 		print("")
@@ -472,7 +472,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 11; RMX2195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36;]"
 		])
 		sys.stdout.write(
-			"\r\r %s[>_] [BY] : %s/%s -> \033[0;92m [ BY-OK:%s ]- \033[0;91m[BY-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s[>_] [BY] : %s/%s -> \033[0;92m [ SHUVO-OK:%s ]- \033[0;91m[SHUVO-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
